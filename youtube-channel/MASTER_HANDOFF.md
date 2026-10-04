@@ -1,87 +1,115 @@
 # MASTER HANDOFF — YouTube Channel Project
 
 ## Project
-Создание YouTube-канала с главной целью построить доходный медиа-проект через YouTube Shorts и длинные видео, с возможностью дополнительно распространять контент в Instagram Reels/TikTok.
+Создание **одного** YouTube-канала с главной целью построить доходный медиа-проект через YouTube Shorts и длинные видео.
+
+## Current channel
+- Канал: **FUN**
+- Направление: **AI Animals / Viral AI Entertainment**
+- Основной фокус: оригинальные AI Shorts с котиками/животными, трендовыми hooks, юмором, неожиданными концовками и собственными персонажами.
+- Второй YouTube-канал **не создаём на текущем этапе**.
+- Исследование AI tools / automation сохраняется только как отложенная идея и сейчас не входит в production plan.
 
 ## Main goal
 Зарабатывать на оригинальном контенте через:
 1. YouTube Partner Program / рекламную монетизацию.
-2. Другие разрешённые источники дохода по мере роста канала: affiliate, sponsorships, products/services и другие подходящие модели.
-3. Shorts как основной инструмент тестирования тем и быстрого роста аудитории.
-4. Long-form как дополнительный формат для watch time, глубокой аудитории и более сильной монетизации.
+2. Рост аудитории через Shorts.
+3. Long-form видео и более длинные оригинальные истории после проверки форматов Shorts.
+4. В будущем — sponsorships, brand integrations, merchandise/digital products и другие разрешённые модели, если появится подходящая аудитория/IP.
 
-## Current strategic plan
-Пользовательский фаворит: **original AI viral entertainment**, особенно короткие AI-видео с котиками/животными и актуальными трендовыми сюжетами.
+## Core strategy
+Текущий канал строится как **Original AI Animal Entertainment**.
 
-Одновременно тестируем второе направление:
-**AI tools + software workflows + practical automation.**
-
-### Почему тестируем оба
-- Вариант A (AI viral animals) нравится пользователю больше и потенциально проще/быстрее в производстве и сильнее подходит для вирусных Shorts.
-- Вариант B (AI tools/automation) потенциально слабее по вирусности, но имеет более высокий коммерческий intent, affiliate и sponsor potential.
-- Окончательный выбор не делаем заранее. Выбор будет основан на реальных данных небольшого controlled test.
-
-## Critical production rule
-Для AI viral content:
+Главная схема:
 **Trend discovery → identify hook → create a completely new story/concept → generate original visuals/audio → edit with original pacing/narration → publish.**
 
-Не делать:
-- брать чужой viral video и просто менять персонажа/стиль;
+Тренд используется только как источник идеи/hook.
+
+### Never do
+- брать чужой viral video и менять персонажа/стиль через AI;
 - скачивать чужие Shorts/Reels/TikToks и AI-переделывать их;
-- копировать последовательность кадров, сюжет и аудио настолько близко, что ролик фактически является переработкой исходника;
-- массово штамповать практически одинаковые ролики.
+- копировать последовательность кадров, сюжет, audio или подачу настолько близко, что ролик становится фактически переработкой исходника;
+- массово штамповать одинаковые ролики.
 
-Тренд используется как **источник идеи/hook**, а не как исходник для переделки.
+### Build original IP
+Постепенно создать:
+- 2–3 узнаваемых оригинальных персонажа;
+- собственный визуальный стиль;
+- собственные recurring jokes;
+- собственную вселенную;
+- повторяемые, но не однотипные storytelling formats.
 
-## Test plan
-### Track A — Original AI viral animals
-- Создать 10 Shorts.
-- Основной фокус: котики/животные, юмор, неожиданный финал, эмоциональные мини-истории, rescue/adventure и адаптация текущих трендов.
-- Все персонажи, сценарии, визуалы и аудио по возможности создаются нами или берутся из материалов с подтверждёнными правами.
-- Создать повторяющихся оригинальных персонажей и постепенно строить собственную IP.
+## Target format
+- Vertical 9:16.
+- Начальный диапазон: 20–45 секунд.
+- Hook в первые 1–2 секунды.
+- Быстрое развитие.
+- Twist/payoff перед финалом.
+- Минимум текста, чтобы история работала визуально.
+- Английский язык для captions/narration, если это улучшает международный охват.
+- Канал не позиционировать как preschool/kids channel.
 
-### Track B — AI tools / automation
-- Создать 10 Shorts.
-- Практические AI-инструменты, автоматизация, сравнения, реальные тесты.
-- Материал строится на собственных screen recordings, тестировании и выводах.
+## First production batch
+1. Cat starts a night shift at a convenience store.
+2. Cat becomes a waiter and meets a chaotic customer.
+3. Cat vs. robot vacuum becomes an unexpected friendship.
+4. Cat tries to cook a giant pancake.
+5. Cat becomes a train conductor for one chaotic trip.
+6. Cat investigates a missing sock.
+7. Cat enters an absurd pet Olympics.
+8. Cat opens a coffee shop for dogs.
+9. Cat tries to hide a birthday present.
+10. Cat meets a household robot and becomes its boss.
 
-### Metrics
-Для каждого теста фиксировать:
-- production time;
-- views;
+## Production workflow
+1. Trend research.
+2. Original concept.
+3. Script.
+4. Character/reference generation.
+5. Scene generation.
+6. Image-to-video animation.
+7. Original voice/narration if needed.
+8. Sound effects/music.
+9. Vertical edit.
+10. Copyright/policy QA.
+11. AI disclosure when required.
+12. Publish.
+13. Record metrics in VIDEO_LOG.md and experiment in EXPERIMENTS_JOURNAL.md.
+
+## Content safety / copyright strategy
+- Prefer self-created scripts, visuals, voice and edits or properly licensed assets.
+- Maintain asset/license records for external materials.
+- Never assume internet availability means commercial rights.
+- Avoid copyrighted characters, logos, celebrity likenesses, or copied story execution.
+- Before publication check copyright, reused content, inauthentic/mass-produced content, advertiser suitability and Community Guidelines.
+- For realistic synthetic content, apply the required YouTube AI disclosure.
+
+## Testing strategy
+Start with **10 Shorts**, approximately one per day.
+Do not judge the channel by one viral or one weak video.
+Compare:
+- production minutes;
+- cost;
+- 24h/72h/7d views;
 - average percentage viewed / retention;
 - likes/comments/shares;
 - subscribers gained;
-- repeat viewers when available;
 - traffic sources;
-- revenue when available.
+- copyright/Content ID status;
+- policy issues.
 
-Главный критерий — не максимальное число просмотров одного ролика, а **результат относительно времени производства + качество аудитории + потенциал будущего дохода + policy safety**.
+The goal is to discover repeatable formats that can scale without becoming mass-produced or interchangeable.
 
-## Next steps
-1. Провести trend/competitor research для обоих направлений.
-2. Определить 10 конкретных идей для Track A и 10 для Track B.
-3. Подготовить production workflow и asset/copyright log.
-4. Создать первые тестовые Shorts.
-5. Публиковать и вести VIDEO_LOG.md.
-6. Через тест выбрать победившее направление или гибридную стратегию.
-7. Только после этого окончательно выбрать название/handle/branding.
+## Monetization path
+Shorts audience growth → repeatable winning formats → long-form expansion → YPP eligibility → additional monetization opportunities.
 
-## Content safety / copyright strategy
-- Предпочтительно создавать сценарии, визуалы, озвучку и монтаж самостоятельно или с помощью AI-инструментов.
-- Для сторонних материалов использовать только материалы с подтверждённым правом коммерческого использования либо разрешённые YouTube-инструменты/лицензии.
-- Для каждого внешнего asset при необходимости вести запись источника, лицензии и условий использования.
-- Не строить канал на перезаливах, компиляциях чужих Shorts/Reels, фильмах, телешоу, чужих TikTok/Instagram-видео или музыке без необходимых прав.
-- AI используется как production tool; каждое видео должно иметь самостоятельную оригинальную ценность.
-- Перед публикацией проверять copyright, reused content, inauthentic/mass-produced content, advertiser suitability and Community Guidelines.
-- Realistic AI-altered/generated content must receive the required YouTube AI disclosure.
-
-## Important YPP note
-Текущие официальные требования YPP перед подачей заявки необходимо проверять заново в YouTube Studio и официальной документации, поскольку YouTube может их менять.
+## Tool policy
+Tool choice is based on commercial rights, quality, consistency and cost. The first production tests may compare Runway, Kling and Veo; editing can use CapCut or another editor; YouTube Audio Library is the default music/SFX source.
 
 ## Decision log
-2026-10-04 — Создан отдельный GitHub-репозиторий и базовая структура проекта.
-2026-10-04 — Главная цель уточнена: построить доход через Shorts/длинные видео; использовать оригинальный или законно лицензированный/разрешённый контент и избегать copyright/policy violations.
-2026-10-04 — AI рассматривается как инструмент производства, а не как основание для массового однотипного контента.
-2026-10-04 — Первичная нишевая оценка рекомендовала AI tools + software workflows + practical automation как сильный коммерческий вариант.
-2026-10-04 — Пользователь выбрал original AI viral entertainment как предпочтительное направление, но принято решение провести параллельный тест двух направлений прежде чем окончательно выбрать стратегию.
+2026-10-04 — Created separate GitHub repository and project structure.
+2026-10-04 — Main goal clarified: build income through original Shorts/long-form while respecting copyright and YouTube policies.
+2026-10-04 — AI is a production tool, not a reason to mass-produce repetitive content.
+2026-10-04 — User selected original AI animal/viral entertainment as the preferred direction.
+2026-10-04 — Decision: focus the entire current project on **one channel, FUN**. Do not create a second channel at this stage.
+2026-10-04 — Production starts with an original recurring-character system and a 10-Short pilot batch.
