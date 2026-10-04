@@ -8,78 +8,51 @@
 1. YouTube Partner Program / рекламную монетизацию.
 2. Другие разрешённые источники дохода по мере роста канала: affiliate, sponsorships, products/services и другие подходящие модели.
 3. Shorts как инструмент быстрого тестирования тем и привлечения аудитории.
-4. Long-form как инструмент более глубокой аудитории, watch time и дополнительных возможностей монетизации.
+4. Long-form как основной формат построения глубокой аудитории, watch time и дохода.
 
-Главный критерий выбора ниши: не просто потенциальные просмотры, а сочетание спроса, возможности регулярно создавать оригинальный контент, безопасности для авторских прав/политик и реальной монетизируемости.
+## Current strategic decision
+**Рекомендуемое направление после первого исследования: AI tools + software workflows + practical automation.**
+
+Это пока **рекомендация, а не окончательная фиксация ниши**. Перед branding проведём конкурентный/content-gap анализ и проверим 20 конкретных тем.
+
+Почему это направление:
+- очень высокая простота производства без лица;
+- можно создавать оригинальные screen recordings и собственные demonstrations;
+- подходит для AI-assisted production;
+- низкий copyright risk при использовании собственных записей;
+- сильный long-form potential;
+- сильный affiliate/sponsor potential;
+- Shorts легко использовать для тестирования тем;
+- ниже policy/trust risk, чем у AI-generated finance/health/legal advice.
+
+Finance остаётся более денежным по рекламной ценности, но для первого канала считается слишком сложным и рискованным из-за требований к точности/доверию и policy risks вокруг AI personas giving financial advice.
 
 ## Content safety / copyright strategy
 - Предпочтительно создавать сценарии, визуалы, озвучку и монтаж самостоятельно или с помощью AI-инструментов.
 - Для сторонних материалов использовать только материалы с подтверждённым правом коммерческого использования либо разрешённые YouTube-инструменты/лицензии.
 - Для каждого внешнего asset при необходимости вести запись источника, лицензии и условий использования.
 - Не строить канал на перезаливах, компиляциях чужих Shorts/Reels, фильмах, телешоу, чужих TikTok/Instagram-видео или музыке без необходимых прав.
-- AI разрешён как инструмент создания, но контент должен быть оригинальным, не массово-шаблонным и давать зрителю реальную творческую/образовательную/развлекательную ценность.
-- Если реалистичный AI/синтетический контент требует disclosure по правилам YouTube, disclosure выполняется.
-- Перед публикацией проверять copyright, reused content, inauthentic/mass-produced content, advertiser suitability и Community Guidelines.
+- AI используется как production tool; каждое видео должно иметь самостоятельную оригинальную ценность.
+- Перед публикацией проверять copyright, reused content, inauthentic/mass-produced content, advertiser suitability and Community Guidelines.
+- Realistic AI-altered/generated content must receive the required YouTube AI disclosure.
 
-## Current status
-Проект создан 2026-10-04. Репозиторий: neppil88/YouTube. Project folder: youtube-channel/.
-
-## Step-by-step roadmap
-### Phase 0 — Foundation
-1. Создать/подготовить Google/YouTube account.
-2. Включить 2-Step Verification и необходимые функции канала.
-3. Настроить YouTube Studio и базовую аналитику.
-4. Определить рабочую папку/архив исходников, проектов, лицензий и готовых роликов.
-
-### Phase 1 — Niche research
-5. Найти 10–20 потенциальных ниш.
-6. Для каждой оценить спрос, конкуренцию, RPM/CPM potential, affiliate/sponsor potential, evergreen potential, скорость производства и copyright risk.
-7. Отдельно проверить, можно ли создавать в нише достаточно оригинального AI-assisted контента без ощущения mass-produced content.
-8. Выбрать 3 лучшие ниши для теста.
-
-### Phase 2 — Channel concept
-9. Выбрать язык и географию аудитории.
-10. Определить конкретного зрителя.
-11. Сформировать обещание канала и уникальный формат.
-12. Определить 3–5 контентных pillars.
-13. Создать naming/branding, avatar/banner и описание.
-
-### Phase 3 — Production system
-14. Создать repeatable workflow: research → idea → script → assets → voice → edit → thumbnail/title → copyright/policy check → publish → analytics.
-15. Создать библиотеку разрешённых источников/AI assets.
-16. Создать шаблоны, но не делать ролики одинаковыми или массово-шаблонными.
-17. Создать систему учёта всех использованных assets и лицензий.
-
-### Phase 4 — First tests
-18. Подготовить 10–20 Shorts и несколько long-form videos как первый тестовый batch.
-19. Публиковать регулярно, но качество и оригинальность важнее количества.
-20. Для каждого видео фиксировать тему, hook, title, thumbnail, duration, views, retention, CTR (если применимо), subscribers and revenue.
-
-### Phase 5 — Optimization
-21. Через первые данные определить темы/форматы-победители.
-22. Увеличивать долю победивших форматов, не превращая канал в копирование одного шаблона.
-23. Тестировать hooks, titles, thumbnails, duration, pacing and publishing times.
-24. Периодически проверять YouTube policy changes.
-
-### Phase 6 — Monetization
-25. Отслеживать YPP eligibility в YouTube Studio.
-26. После достижения требований пройти YPP review.
-27. Подключить подходящие дополнительные источники дохода.
-28. Масштабировать только те форматы, которые одновременно дают аудиторию и остаются policy-safe.
+## Roadmap after niche recommendation
+1. Competitor/content-gap research.
+2. Select 20 strong video ideas.
+3. Choose language/geography, likely English-speaking North American audience.
+4. Define target viewer and channel promise.
+5. Choose final channel name/handle.
+6. Build branding.
+7. Build production workflow and asset/licensing log.
+8. Produce first batch of long-form + Shorts.
+9. Publish, measure, iterate.
+10. Scale winning formats and monetization.
 
 ## Important YPP note
-Требования YouTube меняются, поэтому перед каждой стратегической фазой проверять официальную страницу YPP. На 2026-10-04 YouTube указывает 1,000 subscribers + 4,000 qualified public watch hours in 12 months ИЛИ 1,000 subscribers + 10M qualified Shorts views in 90 days для основной рекламной монетизации. YouTube также объявил изменения с 2027-02-01; поэтому цифры нельзя считать постоянными.
+Current official YPP full ad-revenue threshold: 1,000 subscribers + 4,000 qualified public watch hours in 12 months OR 1,000 subscribers + 10 million qualified Shorts views in 90 days. Shorts-feed watch hours do not count toward the 4,000-hour threshold. Re-check official requirements before applying because YouTube can change them.
 
 ## Decision log
 2026-10-04 — Создан отдельный GitHub-репозиторий и базовая структура проекта.
 2026-10-04 — Главная цель уточнена: построить доход через Shorts/длинные видео; использовать оригинальный или законно лицензированный/разрешённый контент и избегать copyright/policy violations.
 2026-10-04 — AI рассматривается как инструмент производства, а не как основание для массового однотипного контента.
-
-## Next immediate actions
-1. Исследовать 10–20 ниш.
-2. Составить scoring matrix и выбрать top 3.
-3. Выбрать язык/аудиторию.
-4. Сформировать концепцию канала.
-5. Настроить production/copyright tracking.
-6. Сделать первые тестовые Shorts и long-form.
-7. Запустить аналитику и журнал результатов.
+2026-10-04 — Первичная нишевая оценка рекомендует AI tools + software workflows + practical automation как лучший компромисс между простотой производства, monetization potential и policy safety.
