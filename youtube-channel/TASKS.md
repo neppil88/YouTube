@@ -11,11 +11,12 @@
 ## Phase 1 — Strategy / niche validation
 - [x] Провести первичное сравнение ключевых категорий ниш
 - [x] Определить два направления для controlled test
-- [ ] Провести trend/competitor research по обоим направлениям
-- [ ] Подобрать 10 идей для original AI viral animals
-- [ ] Подобрать 10 идей для AI tools / automation
-- [ ] Определить единый workflow производства
-- [ ] Создать copyright/asset tracking
+- [x] Провести trend/competitor research по обоим направлениям
+- [ ] Создать второй YouTube-канал для AI tools benchmark
+- [x] Подобрать 10 идей для original AI viral animals
+- [x] Подобрать 10 идей для AI tools / automation
+- [x] Определить единый workflow производства
+- [x] Создать copyright/asset tracking
 
 ## Phase 2 — Channel concept
 - [ ] Выбрать целевую аудиторию и основной язык
