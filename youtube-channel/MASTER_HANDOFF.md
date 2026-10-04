@@ -7,37 +7,65 @@
 Зарабатывать на оригинальном контенте через:
 1. YouTube Partner Program / рекламную монетизацию.
 2. Другие разрешённые источники дохода по мере роста канала: affiliate, sponsorships, products/services и другие подходящие модели.
-3. Shorts как инструмент быстрого тестирования тем и привлечения аудитории.
-4. Long-form как основной формат построения глубокой аудитории, watch time и дохода.
+3. Shorts как основной инструмент тестирования тем и быстрого роста аудитории.
+4. Long-form как дополнительный формат для watch time, глубокой аудитории и более сильной монетизации.
 
-## Alternative strategic candidate
+## Current strategic plan
+Пользовательский фаворит: **original AI viral entertainment**, особенно короткие AI-видео с котиками/животными и актуальными трендовыми сюжетами.
 
-Второй кандидат для тестирования: **original AI viral entertainment**, особенно короткие истории с оригинальными AI-персонажами-животными.
+Одновременно тестируем второе направление:
+**AI tools + software workflows + practical automation.**
 
-Эта модель может быть проще и вируснее для Shorts, но обычно слабее по прямой рекламной монетизации и сильнее зависит от трендов. Она безопасна только при создании собственной версии идеи: нельзя просто брать чужой viral video и менять визуальный стиль AI.
+### Почему тестируем оба
+- Вариант A (AI viral animals) нравится пользователю больше и потенциально проще/быстрее в производстве и сильнее подходит для вирусных Shorts.
+- Вариант B (AI tools/automation) потенциально слабее по вирусности, но имеет более высокий коммерческий intent, affiliate и sponsor potential.
+- Окончательный выбор не делаем заранее. Выбор будет основан на реальных данных небольшого controlled test.
 
-Финальное решение между:
-- A. AI tools + software workflows + practical automation
-- B. Original AI animal/viral entertainment
+## Critical production rule
+Для AI viral content:
+**Trend discovery → identify hook → create a completely new story/concept → generate original visuals/audio → edit with original pacing/narration → publish.**
 
-будет принято после небольшого controlled test по production time, views, retention, subscribers, shares и monetization potential.
+Не делать:
+- брать чужой viral video и просто менять персонажа/стиль;
+- скачивать чужие Shorts/Reels/TikToks и AI-переделывать их;
+- копировать последовательность кадров, сюжет и аудио настолько близко, что ролик фактически является переработкой исходника;
+- массово штамповать практически одинаковые ролики.
 
-## Current strategic decision
-**Рекомендуемое направление после первого исследования: AI tools + software workflows + practical automation.**
+Тренд используется как **источник идеи/hook**, а не как исходник для переделки.
 
-Это пока **рекомендация, а не окончательная фиксация ниши**. Перед branding проведём конкурентный/content-gap анализ и проверим 20 конкретных тем.
+## Test plan
+### Track A — Original AI viral animals
+- Создать 10 Shorts.
+- Основной фокус: котики/животные, юмор, неожиданный финал, эмоциональные мини-истории, rescue/adventure и адаптация текущих трендов.
+- Все персонажи, сценарии, визуалы и аудио по возможности создаются нами или берутся из материалов с подтверждёнными правами.
+- Создать повторяющихся оригинальных персонажей и постепенно строить собственную IP.
 
-Почему это направление:
-- очень высокая простота производства без лица;
-- можно создавать оригинальные screen recordings и собственные demonstrations;
-- подходит для AI-assisted production;
-- низкий copyright risk при использовании собственных записей;
-- сильный long-form potential;
-- сильный affiliate/sponsor potential;
-- Shorts легко использовать для тестирования тем;
-- ниже policy/trust risk, чем у AI-generated finance/health/legal advice.
+### Track B — AI tools / automation
+- Создать 10 Shorts.
+- Практические AI-инструменты, автоматизация, сравнения, реальные тесты.
+- Материал строится на собственных screen recordings, тестировании и выводах.
 
-Finance остаётся более денежным по рекламной ценности, но для первого канала считается слишком сложным и рискованным из-за требований к точности/доверию и policy risks вокруг AI personas giving financial advice.
+### Metrics
+Для каждого теста фиксировать:
+- production time;
+- views;
+- average percentage viewed / retention;
+- likes/comments/shares;
+- subscribers gained;
+- repeat viewers when available;
+- traffic sources;
+- revenue when available.
+
+Главный критерий — не максимальное число просмотров одного ролика, а **результат относительно времени производства + качество аудитории + потенциал будущего дохода + policy safety**.
+
+## Next steps
+1. Провести trend/competitor research для обоих направлений.
+2. Определить 10 конкретных идей для Track A и 10 для Track B.
+3. Подготовить production workflow и asset/copyright log.
+4. Создать первые тестовые Shorts.
+5. Публиковать и вести VIDEO_LOG.md.
+6. Через тест выбрать победившее направление или гибридную стратегию.
+7. Только после этого окончательно выбрать название/handle/branding.
 
 ## Content safety / copyright strategy
 - Предпочтительно создавать сценарии, визуалы, озвучку и монтаж самостоятельно или с помощью AI-инструментов.
@@ -48,23 +76,12 @@ Finance остаётся более денежным по рекламной ц�
 - Перед публикацией проверять copyright, reused content, inauthentic/mass-produced content, advertiser suitability and Community Guidelines.
 - Realistic AI-altered/generated content must receive the required YouTube AI disclosure.
 
-## Roadmap after niche recommendation
-1. Competitor/content-gap research.
-2. Select 20 strong video ideas.
-3. Choose language/geography, likely English-speaking North American audience.
-4. Define target viewer and channel promise.
-5. Choose final channel name/handle.
-6. Build branding.
-7. Build production workflow and asset/licensing log.
-8. Produce first batch of long-form + Shorts.
-9. Publish, measure, iterate.
-10. Scale winning formats and monetization.
-
 ## Important YPP note
-Current official YPP full ad-revenue threshold: 1,000 subscribers + 4,000 qualified public watch hours in 12 months OR 1,000 subscribers + 10 million qualified Shorts views in 90 days. Shorts-feed watch hours do not count toward the 4,000-hour threshold. Re-check official requirements before applying because YouTube can change them.
+Текущие официальные требования YPP перед подачей заявки необходимо проверять заново в YouTube Studio и официальной документации, поскольку YouTube может их менять.
 
 ## Decision log
 2026-10-04 — Создан отдельный GitHub-репозиторий и базовая структура проекта.
 2026-10-04 — Главная цель уточнена: построить доход через Shorts/длинные видео; использовать оригинальный или законно лицензированный/разрешённый контент и избегать copyright/policy violations.
 2026-10-04 — AI рассматривается как инструмент производства, а не как основание для массового однотипного контента.
-2026-10-04 — Первичная нишевая оценка рекомендует AI tools + software workflows + practical automation как лучший компромисс между простотой производства, monetization potential и policy safety.
+2026-10-04 — Первичная нишевая оценка рекомендовала AI tools + software workflows + practical automation как сильный коммерческий вариант.
+2026-10-04 — Пользователь выбрал original AI viral entertainment как предпочтительное направление, но принято решение провести параллельный тест двух направлений прежде чем окончательно выбрать стратегию.
