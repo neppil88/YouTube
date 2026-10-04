@@ -120,3 +120,74 @@ Third-party 2026 benchmark articles consistently place finance/business above en
 - Admetrics (2026): finance, business, tech and education benchmarked above gaming/entertainment.
 - TubeAnalytics (2026): Canada benchmarks show finance and technology above education, entertainment and gaming.
 These sources are used only for relative strategic comparison; actual revenue depends heavily on audience geography, format, seasonality and viewer intent.
+
+
+## 2026-10-04 — Alternative strategy: original AI viral entertainment
+
+Пользователь предложил модель: находить популярные тренды/сюжеты (особенно с котиками и другими животными) и создавать новые AI-видео на их основе.
+
+### Assessment
+Эта модель потенциально:
+- проще и быстрее в производстве, чем AI/software tutorials;
+- лучше подходит для Shorts/Reels и быстрого тестирования большого количества идей;
+- потенциально имеет более высокий шанс отдельных вирусных всплесков;
+- имеет существенно более низкий рекламный потенциал на один просмотр, чем коммерческие software/finance topics;
+- сильнее зависит от постоянного поиска трендов;
+- имеет повышенный риск монетизационного провала, если фактически повторяет чужие ролики, шаблоны или производит массовый однотипный AI-контент.
+
+### Critical rule
+НЕ делать:
+- скачивать популярный Short/Reel/TikTok и просто менять лицо/фон/стиль через AI;
+- делать почти одинаковые ролики, меняя только животное, текст или фон;
+- брать чужой оригинальный audio/video и считать, что AI-editing автоматически делает его нашим;
+- копировать узнаваемого персонажа или конкретную историю настолько близко, что результат является практически переделкой исходного произведения.
+
+YouTube states that repetitive/mass-produced "inauthentic content" is not eligible for monetization, and reused content must have significant original commentary, substantive modifications, or educational/entertainment value. On 2026-10-01 YouTube also announced that Shorts recommendations will further prioritize original content and reduce reach for reuploads without meaningful original contribution.
+
+### Better model
+Use the trend only as **inspiration**:
+**Trend discovery → identify the underlying hook → write a new story/joke → generate original visuals/audio → edit with our own pacing/narration → publish.**
+
+Example:
+Trend: cute cat rescue videos are going viral.
+Wrong: download one viral cat rescue and remake the exact sequence with AI.
+Right: use the general "cat rescue" hook and create a completely new fictional 30-second story with our own cat character, new setting, new conflict, new ending, and original narration/audio.
+
+### Best format for this idea
+**Original AI animal entertainment universe**
+- recurring original characters;
+- short fictional stories;
+- comedy / surprise / emotional endings;
+- current meme/trend hooks without copying the source execution;
+- 20–60 second Shorts as primary format;
+- occasional 3–8 minute compilations or expanded stories only when they provide genuinely new value.
+
+### Monetization assessment
+This is likely easier for reach than AI/software tutorials, but weaker as a direct advertising business. The business model should therefore be:
+1. Shorts audience growth;
+2. YPP Shorts revenue when eligible;
+3. long-form/compilations with original additional storytelling;
+4. sponsorships/brand integrations later;
+5. possible digital products/characters/merch only if a recognizable original IP develops.
+
+### Recommendation
+Keep two candidates alive:
+- **A. AI tools + practical automation** — higher commercial value and better direct monetization;
+- **B. Original AI animal/viral entertainment** — easier production and higher viral upside.
+
+Before final channel branding, test both with a small controlled experiment and compare:
+- production time per video;
+- views;
+- average percentage viewed / retention;
+- subscribers gained per 1,000 views;
+- repeat viewers;
+- comments/shares;
+- estimated revenue when data becomes available.
+
+Official sources:
+- YouTube monetization policies: https://support.google.com/youtube/answer/1311392
+- What kind of content can I monetize?: https://support.google.com/youtube/answer/2490020
+- Shorts monetization policies: https://support.google.com/youtube/answer/12504220
+- GenAI disclosure: https://support.google.com/youtube/answer/14328491
+- Prioritizing original content on Shorts (2026-10-01): https://support.google.com/youtube/blog/470890423/prioritizing-original-content-on-shorts
+- Canadian copyright basics (ideas vs expression): https://ised-isde.canada.ca/site/ised/en/about-copyright
