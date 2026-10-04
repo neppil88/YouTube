@@ -1,7 +1,7 @@
 # VIDEO 001 — THE CAT'S FIRST NIGHT SHIFT
 
 ## Status
-Pre-production
+Pilot MP4 created
 
 ## Goal
 First public pilot for FUN. Test visual hook, retention, character appeal and production workflow.
@@ -59,6 +59,16 @@ Create a consistent reference image for Milo first.
 Then generate 8 scene keyframes using the same character reference.
 Animate each scene separately and edit together.
 Keep cuts fast but readable.
+
+## Pilot file
+- Local pilot: `FUN_Short_001_PILOT.mp4`
+- Format: MP4 / H.264 + AAC
+- Resolution: 1080x1920
+- Duration: 32 seconds
+- FPS: 24
+- Visuals: original AI-generated still scenes with editorial motion/zoom
+- Audio: original generated voiceover + original synthesized background music
+- Not yet published to YouTube.
 
 ## QA
 - Character appearance consistent between scenes.
