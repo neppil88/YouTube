@@ -10,6 +10,18 @@
 3. Shorts как инструмент быстрого тестирования тем и привлечения аудитории.
 4. Long-form как основной формат построения глубокой аудитории, watch time и дохода.
 
+## Alternative strategic candidate
+
+Второй кандидат для тестирования: **original AI viral entertainment**, особенно короткие истории с оригинальными AI-персонажами-животными.
+
+Эта модель может быть проще и вируснее для Shorts, но обычно слабее по прямой рекламной монетизации и сильнее зависит от трендов. Она безопасна только при создании собственной версии идеи: нельзя просто брать чужой viral video и менять визуальный стиль AI.
+
+Финальное решение между:
+- A. AI tools + software workflows + practical automation
+- B. Original AI animal/viral entertainment
+
+будет принято после небольшого controlled test по production time, views, retention, subscribers, shares и monetization potential.
+
 ## Current strategic decision
 **Рекомендуемое направление после первого исследования: AI tools + software workflows + practical automation.**
 
