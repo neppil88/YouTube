@@ -1,130 +1,100 @@
-# PRODUCTION PLAYBOOK — YouTube Shorts Test
+# PRODUCTION PLAYBOOK — FUN
 
 ## Strategic decision
-Primary experiment: Original AI animal/cat entertainment.
-Secondary benchmark: AI tools / automation.
-Do not mix both niches on one public channel during the test. The current FUN channel is the primary animal test. A separate YouTube channel under the same Google account will be used for the AI-tools test once created.
+Current and only active channel:
+**FUN — Original AI Animal Entertainment**
 
-## Track A — Original AI animal entertainment
+No second public channel is being created at this stage.
 
-### Core concept
-Short, visually obvious, globally understandable fictional stories featuring original recurring AI animal characters.
+## Core concept
+Short, visually obvious, globally understandable fictional stories featuring original recurring AI animal characters and trend-inspired scenarios.
 
-### Target audience
-General audience / broad entertainment, not intentionally preschool content.
-Do not package videos as nursery/kids content. Each video must still be assessed individually for the YouTube audience setting.
+## Format
+- 9:16 vertical.
+- 20–45 seconds.
+- Hook in first 1–2 seconds.
+- New visual information every few seconds.
+- Twist/payoff before the end.
+- Minimal text; story should work visually.
+- English captions/narration for broad international reach.
 
-### Content pillars
-1. Absurd everyday jobs
-2. Human-like animal problems
-3. Unexpected twist/comedy
-4. Mini adventures
-5. Trend-inspired scenarios
+## Audience
+General audience / broad entertainment, not intentionally preschool content. Audience setting remains a per-video decision.
 
-### Format
-- 9:16 vertical
-- 20–45 seconds as the default test window
-- Hook in first 1–2 seconds
-- Clear visual premise
-- Escalation/change every few seconds
-- Payoff/twist before the end
-- Optional loop-friendly final frame
-- Minimal on-screen text
-- English captions or very short English narration; rely primarily on visual storytelling
+## Content pillars
+1. Absurd everyday animal jobs.
+2. Human-like animal problems.
+3. Unexpected twist/comedy.
+4. Mini adventures.
+5. Trend-inspired original stories.
 
-### First 10 production concepts
-1. Cat starts a night shift at a convenience store.
-2. Cat becomes a waiter and discovers a customer who is even more chaotic.
-3. Cat vs. robot vacuum becomes an unexpected friendship.
-4. Cat tries to cook a giant pancake for a tiny food truck.
-5. Cat becomes a train conductor for one chaotic trip.
-6. Cat thinks it is secretly a famous detective and investigates a missing sock.
-7. Cat enters an absurd pet Olympics and unexpectedly wins.
-8. Cat opens a tiny coffee shop for dogs.
-9. Cat tries to hide a birthday present and keeps accidentally revealing it.
-10. Cat meets a household robot and becomes its boss.
+## Character system
+Start with 2–3 original recurring characters.
+Character reference must define:
+- species;
+- fur/colors;
+- eyes;
+- body proportions;
+- clothing/accessories;
+- personality;
+- expressions;
+- default environment;
+- camera/visual style.
 
-Avoid first-batch themes involving graphic injury, animal distress, gore, kidnapping, weapons, sexual content, or realistic tragedy.
+No copyrighted characters, logos, celebrity likenesses or recognizable protected designs.
 
-### Story template
-0–2s: hook/image that creates immediate question.
-2–8s: establish the strange situation.
-8–20s: escalation.
-20–32s: twist/payoff.
-32–45s: reaction/loop/quick ending.
+## Production workflow
+1. Trend research.
+2. Choose hook.
+3. Write an original concept.
+4. Write short script.
+5. Generate/lock character reference.
+6. Generate scene keyframes.
+7. Animate scenes.
+8. Create original narration/voice if needed.
+9. Add sound effects and music.
+10. Edit in 9:16.
+11. Frame-by-frame QA.
+12. Copyright/policy QA.
+13. Apply AI disclosure when required.
+14. Publish.
+15. Log result in VIDEO_LOG.md and EXPERIMENTS_JOURNAL.md.
 
-### Visual identity
-Create 2–3 original recurring characters and keep visual consistency across episodes.
-Do not copy recognizable existing characters, logos, celebrity likenesses, or copyrighted designs.
+## First Short
+**Working title:** The Cat's First Night Shift
+**Duration:** 30–40s
+**Hook:** Cat arrives at a convenience store for its first night shift; the automatic door opens by itself and an empty cart rolls in.
+**Story:** The cat tries to act professional, stocks snacks, scans items, then the empty cart keeps moving and causes increasingly funny problems. The cat finally discovers a tiny mouse sitting in the cart, pressing the controls. The cat and mouse silently agree to work together.
+**Payoff:** They end the shift as an unexpectedly effective team.
+**Tone:** Cute + cinematic + comedy.
+**No dialogue required; captions/narration optional.**
 
-### AI production workflow
-1. Research trend/hook.
-2. Write original concept and script.
-3. Generate character reference.
-4. Generate key frames/scenes.
-5. Animate with an image-to-video model.
-6. Generate/record original narration if needed.
-7. Add sound effects and music.
-8. Edit in vertical format.
-9. Review every frame for visual glitches, accidental logos, text artifacts and unsafe content.
-10. Run copyright/policy checklist.
-11. Set AI disclosure when the synthetic content is realistic/meaningfully altered; for this project, default to transparent disclosure when uncertain.
-12. Publish.
-13. Log the result in VIDEO_LOG.md and the experiment in EXPERIMENTS_JOURNAL.md.
+## Safety
+Do not use graphic injury, gore, animal abuse/distress, weapons, sexual content, kidnapping or realistic tragedy in the initial batch.
 
-## Recommended initial tools
-- Video generation: test Runway first; compare Kling and/or Veo on a small sample before subscribing.
-- Editing: CapCut or equivalent. Use only materials marked for commercial use when using platform-provided assets/templates.
-- Music/SFX: YouTube Audio Library first.
-- Script/idea development: ChatGPT.
-- Asset log: GitHub.
+## Music/SFX
+Prefer YouTube Audio Library or original/clearly commercially licensed audio.
 
-Runway states generated content can be used commercially, including monetized YouTube uploads, and no credit is required. Pika's current terms say commercial use depends on the subscription plan; Pro/Fancy allow commercial use while Basic/Standard do not. CapCut states its own user-generated content remains the user's, while commercial use of platform materials depends on explicit commercial-use labeling. YouTube Audio Library is the preferred music/SFX source because YouTube identifies it as copyright-safe for YouTube use.
+## Measurement
+Record:
+- production minutes;
+- generation cost;
+- video duration;
+- 24h/72h/7d views;
+- retention / average percentage viewed;
+- likes;
+- comments;
+- shares;
+- subscribers gained;
+- traffic source;
+- Content ID/copyright status;
+- AI disclosure;
+- notes.
 
-## Track B — AI tools / automation
-Run as a separate channel so its audience is not mixed with the entertainment channel.
-First 10 Shorts test practical AI tools, comparisons and workflows.
-Use screen recordings and original commentary/examples.
-
-## Measurement framework
-For every video record:
-- Date
-- Track
-- Concept
-- Production minutes
-- Tool(s) used
-- Cost
-- Duration
-- Views after 24h / 72h / 7d
-- Average percentage viewed / retention when available
-- Likes
-- Comments
-- Shares
-- Subscribers gained
-- Traffic source
-- AI disclosure
-- Copyright/Content ID status
-- Notes
-
-### Decision thresholds
-Do not kill a format because of one low-view Short.
-After 10 videos, compare medians and the number of outliers.
-Prioritize formats with:
-- high retention;
-- strong shares/comments;
-- subscriber conversion;
-- repeatable production;
-- low policy/copyright risk.
-
-## Publishing test
-Animal channel: target 1 Short/day for the first 10 test videos.
-AI-tools channel: target 1 Short/day for the first 10 test videos after the second channel is created.
-Do not artificially inflate views or engagement.
-
-## Music policy
-Use YouTube Audio Library wherever possible. Do not use trending songs simply because they are popular on TikTok/Instagram; a track that is safe in one context/platform may not be safe for our monetized YouTube workflow.
+## Publishing cadence
+Initial test: approximately 1 Short/day for 10 Shorts.
 
 ## Copyright rule
 Trend = inspiration.
 Source video = not an asset.
-We do not download a viral video and AI-edit it into our own.
+Never download a viral video and AI-edit it into our own.
