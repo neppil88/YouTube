@@ -8,48 +8,53 @@
 - [x] Получить доступ к «Расширенным функциям»
 - [x] Запросить «Продвинутые функции» через видеопроверку
 
-## Phase 1 — Strategy / niche validation
-- [x] Провести первичное сравнение ключевых категорий ниш
-- [x] Определить два направления для controlled test
-- [x] Провести trend/competitor research по обоим направлениям
-- [ ] Создать второй YouTube-канал для AI tools benchmark
-- [x] Подобрать 10 идей для original AI viral animals
-- [x] Подобрать 10 идей для AI tools / automation
-- [x] Определить единый workflow производства
-- [x] Создать copyright/asset tracking
+## Phase 1 — Current channel strategy
+- [x] Выбрать основную нишу: AI Animals / Viral AI Entertainment
+- [x] Отказаться от создания второго канала на текущем этапе
+- [x] Определить copyright-safe production rule
+- [x] Определить первые 10 Shorts
+- [x] Определить production workflow
+- [x] Создать copyright/asset tracking rule
+- [ ] Выбрать основной язык и географию аудитории
+- [ ] Определить 2–3 постоянных оригинальных персонажа
+- [ ] Создать правила визуальной консистентности
+- [ ] Выбрать набор инструментов для производства
 
-## Phase 2 — Channel concept
-- [ ] Выбрать целевую аудиторию и основной язык
-- [ ] Сформировать концепцию канала
-- [ ] Определить 3–5 content pillars для выбранного направления
-- [ ] Придумать название
+## Phase 2 — Channel concept / branding
+- [ ] Сформировать финальную концепцию канала
+- [ ] Придумать окончательное название вместо временного FUN, если потребуется
 - [ ] Выбрать окончательный handle
-- [ ] Создать branding
+- [ ] Создать avatar
+- [ ] Создать banner
+- [ ] Написать channel description
+- [ ] Настроить links/branding
 
-## Phase 3 — Production
-- [ ] Подготовить первые 10 Shorts Track A
-- [ ] Подготовить первые 10 Shorts Track B
-- [ ] Запустить публикации
-- [ ] Записывать все результаты в VIDEO_LOG.md
+## Phase 3 — First production batch
+- [ ] Подготовить Short #1
+- [ ] Проверить copyright/policy/AI disclosure
+- [ ] Опубликовать Short #1
+- [ ] Записать результаты в VIDEO_LOG.md
+- [ ] Подготовить Shorts #2–#10
+- [ ] Публиковать примерно 1 Short/day
 
-## Phase 4 — Testing and selection
+## Phase 4 — Optimization
 - [ ] Сравнить production time
-- [ ] Сравнить views
 - [ ] Сравнить retention
-- [ ] Сравнить subscribers gained
+- [ ] Сравнить views
+- [ ] Сравнить subscriber conversion
 - [ ] Сравнить shares/comments
-- [ ] Оценить monetization potential
-- [ ] Выбрать победителя или гибридную модель
+- [ ] Найти winning formats
+- [ ] Сделать первые long-form videos на основе победивших форматов
 
 ## Phase 5 — Monetization
 - [ ] Отслеживать YPP eligibility
 - [ ] Подготовить AdSense for YouTube
 - [ ] Подать заявку при выполнении актуальных требований
-- [ ] Добавить affiliate/sponsor/digital-product opportunities
+- [ ] Добавить разрешённые дополнительные источники дохода
 
 ## Done
 - [x] Создать отдельный GitHub-репозиторий
 - [x] Создать структуру проекта и журналы
 - [x] Зафиксировать главную цель: заработок через Shorts/long-form при соблюдении copyright и YouTube policies
 - [x] Провести первичное сравнение ниш
-- [x] Зафиксировать план параллельного теста двух направлений
+- [x] Выбрать один текущий канал и одно направление
